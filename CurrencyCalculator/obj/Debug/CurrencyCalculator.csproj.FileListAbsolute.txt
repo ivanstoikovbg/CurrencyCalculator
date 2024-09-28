@@ -1,0 +1,7 @@
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe.config
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\obj\Debug\CurrencyCalculator.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\CurrencyCalculator\obj\Debug\CurrencyCalculator.pdb
